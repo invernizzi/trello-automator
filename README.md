@@ -9,7 +9,7 @@ With this, every evening I just pick what I don't want to do tomorrow and put it
 
 You can make your own rules just by modifying this code. Enjoy!
 
-````
+````python
     later_list = get_list_id_from_name('Later This Week')
     tomorrow_list = get_list_id_from_name('Tomorrow')
     today_list = get_list_id_from_name('Today')
